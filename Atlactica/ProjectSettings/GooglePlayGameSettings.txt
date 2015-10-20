@@ -1,0 +1,6 @@
+lastUpgrade=00926
+proj.AppId=1056205193299
+proj.ConstantsClassName=Htest
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e1056205193299%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.CuriousCrunch.Htest%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5_houses%22%3eCgkI04Dx1d4eEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_10_houses%22%3eCgkI04Dx1d4eEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_25_houses%22%3eCgkI04Dx1d4eEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_30_houses%22%3eCgkI04Dx1d4eEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_50_houses%22%3eCgkI04Dx1d4eEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_highscores%22%3eCgkI04Dx1d4eEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=1056205193299-9gun8mpqta40s7n1hsh03pktaa3jgut0.apps.googleusercontent.com
+android.SetupDone=true
